@@ -1,5 +1,5 @@
 # change wd
-cd ~/github/econ-data-tracker
+cd ~/github/Economic-data-tracker/
 
 # call model, push output to github
 Rscript _scripts/01_wrangle_fred.R
